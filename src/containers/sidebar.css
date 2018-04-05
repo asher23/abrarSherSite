@@ -1,0 +1,31 @@
+#side-bar {
+    position: fixed;
+    right: 0px;
+    width: 250px;
+    /* background-color: #182628; */
+    background-color: black;
+    color: #f2f2f2;
+    height: 100vh;
+    font-family: 'Vollkorn', serif;    
+    padding-top: 100px;
+    text-align: right;
+}
+
+#children {
+    margin-right: 250px
+}
+
+.push-right {
+    padding-right: 14px;
+    margin-bottom: 100px;
+}
+
+
+.list-group-item {
+    background-color: #210B0E;
+    font-size: 15px;
+}
+
+a {
+    color: inherit
+}
